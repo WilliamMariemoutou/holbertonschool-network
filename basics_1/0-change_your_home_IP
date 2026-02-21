@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # This script changes localhost and facebook.com IP addresses
 
 # Overwrite /etc/hosts with new values
